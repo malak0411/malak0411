@@ -12,7 +12,6 @@
 - 🌱 I’m learning more about *microservices* and *DevOps tools*  
 - 💬 Ask me about: .NET, C#, SQL Server, REST APIs, Entity Framework  
 - 📫 How to reach me: *malakalhubaishi2002@gmail.com*  
-- ⚡ Fun fact: I love clean code & coffee ☕
 
 ---
 
